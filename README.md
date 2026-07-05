@@ -1,14 +1,5 @@
 # Lumen
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?logoColor=white)
-![PySerial](https://img.shields.io/badge/PySerial-4B8BBE?logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?logo=espressif&logoColor=white)
-
 ![Lumen dome in CALM, BREAK, and BREATHING states, with a hand demonstrating the touch interaction](assets/lumen.jpeg)
 
 A webcam-driven computer vision pipeline (MediaPipe Face Mesh, blink detection, rolling baseline, risk scoring) controls a physical LED object over serial to an ESP32-S3, built to show a full CV-to-hardware loop working end to end.
